@@ -14,8 +14,9 @@ main{
     font-style: normal;
 }
 
-p, .card-text, .card-title{
+p, .card{
     font-family: "Roboto", sans-serif;
     font-weight: 100;
     font-style: normal;
 }
+
