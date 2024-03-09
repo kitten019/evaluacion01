@@ -20,6 +20,10 @@ p, #textFooter, .card{
     font-style: normal;
 }
 
-#textFooter{
-    text-align: right;
+.bg-info{
+    display: flex;
+}
+
+.col-5{
+    display: flex;
 }
