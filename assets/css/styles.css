@@ -14,6 +14,8 @@ main{
     font-style: normal;
 }
 
+
+
 p, #textFooter, .card{
     font-family: "Roboto", sans-serif;
     font-weight: 100;
@@ -26,4 +28,10 @@ p, #textFooter, .card{
 
 .col-5{
     display: flex;
+}
+
+@media screen and (max-width: 576px) {
+    .quienesSomos{
+        display:none;
+    }
 }
